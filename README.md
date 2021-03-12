@@ -21,3 +21,17 @@ Definition---> This is a user interface specification document for the user mana
   2.4 User Status Sorting Button
   
   2.5 Display User List
+  
+3. New User Information Screen
+
+  3.1 Username Text Box
+
+  3.2 Display Name Text Box
+  
+  3.3 Phone Text Box
+  
+  3.4 Email Text Box
+  
+  3.5 User Role Option Box
+  
+  3.6 User Status Check Box
