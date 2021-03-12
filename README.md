@@ -73,3 +73,7 @@ Definition---> This is a user interface specification document for the user mana
   3.5 User Role Option Box
   
   3.6 User Status Check Box
+
+ 
+// Screen Figure//
+![User Management Screen](/pic1.png)
